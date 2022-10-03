@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav1832
+- 👋 Hi, I’m Gaurav Garwa
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, Flask
 - 📫 How to reach me ...Email: garwagaurav@gmail.com
