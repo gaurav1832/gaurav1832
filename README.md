@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [bit.ly/gauravgarwa](bit.ly/gauravgarwa)
+- 👨‍💻 All of my projects are available <a href="bit.ly/gauravgarwa">here</a>
 
 - 📫 How to reach me **garwagaurav@gmail.com**
 
