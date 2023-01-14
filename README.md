@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Garwa</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-<img align="right" alt="website" src="https://drive.google.com/file/d/1LhxuYPBL1snXN1eW-uQs7q6k5zby3RV9/view?usp=sharing"/>
+<img align="right" alt="website" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw24WdjJQV7SvDR__TH9vymx&ust=1673790641394000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKij4paax_wCFQAAAAAdAAAAABAn"/>
 - 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available <a href="https://portfolio-xi-six-17.vercel.app/">here</a>
