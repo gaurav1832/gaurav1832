@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available <a href="https://portfolio-xi-six-17.vercel.app/">here</a>
+- 👨‍💻 All of my projects are available <a href="gauravgarwa.vercel.app/projects">here</a>
 
 - 📫 How to reach me **garwagaurav@gmail.com**
 
