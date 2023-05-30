@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate computer science student from India<br><br>🌱 I’m currently learning NextJs<br><br>👨‍💻 All of my projects are available here<br><br>📫 How to reach me garwagaurav@gmail.com<br><br>
+A passionate computer science student from India<br><br>🌱 I’m currently learning NextJs<br><br>👨‍💻 All of my projects are available <a href="https://github.com/gaurav1832?tab=repositories">here</a><br><br>📫 How to reach me garwagaurav@gmail.com<br><br>
 
 
 ## 🌐 Socials:
