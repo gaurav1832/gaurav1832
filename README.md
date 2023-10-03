@@ -68,6 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-![](https://leetcard.carlsen_magnus.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/carlsen_magnus?ext=heatmap)
 
 ###
