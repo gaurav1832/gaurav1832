@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Gaurav Garwa from Surajgarh, Rajasthan<br><br><br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I play Chess ♞</p>
+<p align="left">I'm Gaurav Garwa from Surajgarh, Rajasthan<br><br>-  👨🏻‍💻 I'm currently working on CodeMaps<br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I play Chess ♞</p>
 
 ###
 
@@ -77,3 +77,5 @@
 <a href="https://www.leetcode.com/carlsen_magnus">LeetCode Profile</a>
 
 ###
+
+
