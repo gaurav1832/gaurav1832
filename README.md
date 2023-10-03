@@ -1,11 +1,3 @@
- 
-# 💫 About Me:
-A passionate computer science student from India<br><br>🌱 I’m currently learning NextJs<br><br>👨‍💻 All of my projects are available <a href="https://github.com/gaurav1832?tab=repositories">here</a><br><br>📫 How to reach me garwagaurav@gmail.com<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this.gaurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav1832) 
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif"  />
 </div>
@@ -102,5 +94,9 @@ A passionate computer science student from India<br><br>🌱 I’m currently lea
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav1832&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1832&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gaurav1832/gaurav1832/output/snake.svg" alt="Snake animation" />
 
 ###
