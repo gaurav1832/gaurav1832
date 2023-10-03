@@ -1,3 +1,4 @@
+ 
 # 💫 About Me:
 A passionate computer science student from India<br><br>🌱 I’m currently learning NextJs<br><br>👨‍💻 All of my projects are available <a href="https://github.com/gaurav1832?tab=repositories">here</a><br><br>📫 How to reach me garwagaurav@gmail.com<br><br>
 
@@ -6,7 +7,7 @@ A passionate computer science student from India<br><br>🌱 I’m currently lea
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this.gaurav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav1832) 
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif"  />
 </div>
 
 ###
@@ -103,6 +104,3 @@ A passionate computer science student from India<br><br>🌱 I’m currently lea
 </div>
 
 ###
----
-[![](https://visitcount.itsvg.in/api?id=gaurav1832&icon=0&color=12)](https://visitcount.itsvg.in)
-
