@@ -71,8 +71,10 @@
 
 <p align="left">
 <a href="https://twitter.com/ggauravvvvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggauravvvvv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav1832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav1832" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/carlsen_magnus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="carlsen_magnus" height="30" width="40" /></a>
 </p>
+
 
 ###
 
