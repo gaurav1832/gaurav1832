@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav1832.gaurav1832&"  />
+  
+  [![](https://visitcount.itsvg.in/api?id=gaurav1832&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 ###
