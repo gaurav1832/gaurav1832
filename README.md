@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/h0Cq1ClzO3UpupFPjP" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-xbox-series-x-stanley-the-parable-h0Cq1ClzO3UpupFPjP">via GIPHY</a></p>
+  <a src="https://giphy.com/embed/h0Cq1ClzO3UpupFPjP" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></a>
 </div>
 
 ###
