@@ -1,5 +1,5 @@
 <div align="center">
-  <a src="https://giphy.com/embed/h0Cq1ClzO3UpupFPjP" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></a>
+<img height="150" src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif"  />
 </div>
 
 ###
@@ -84,5 +84,8 @@
 <img src="https://raw.githubusercontent.com/gaurav1832/gaurav1832/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
 
 
