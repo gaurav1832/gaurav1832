@@ -81,7 +81,7 @@
 
 
  ###
- <h5>Thanks for coming here xd:)</h5>
+ Thanks for coming here xd :) 
 
 
 
