@@ -70,11 +70,7 @@
 <a href="https://www.leetcode.com/carlsen_magnus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="carlsen_magnus" height="30" width="40" /></a>
 </p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav1832&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 
  ###
