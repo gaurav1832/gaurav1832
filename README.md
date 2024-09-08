@@ -22,6 +22,7 @@
 - CSS3           | Python        | Flask
 - MySQL          | Git           | Vercel | Netlify
 
+```
 <!-- Tech Stack -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -40,13 +41,13 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" />
 </div>
 
+
 # Connect with me:
 - Twitter: [ggauravvvvv](https://twitter.com/ggauravvvvv)
 - LinkedIn: [gaurav1832](https://linkedin.com/in/gaurav1832)
 - Instagram: [_gauravv_v_](https://instagram.com/_gauravv_v_)
 - LeetCode: [carlsen_magnus](https://www.leetcode.com/carlsen_magnus)
 
-```
 
 Thanks for stopping by! 😄
 
