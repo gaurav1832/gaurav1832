@@ -42,11 +42,10 @@
 </div>
 
 
-# Connect with me:
-- Twitter: [ggauravvvvv](https://twitter.com/ggauravvvvv)
-- LinkedIn: [gaurav1832](https://linkedin.com/in/gaurav1832)
-- Instagram: [_gauravv_v_](https://instagram.com/_gauravv_v_)
+# Find me on:
 - LeetCode: [carlsen_magnus](https://www.leetcode.com/carlsen_magnus)
+- LinkedIn: [gaurav1832](https://linkedin.com/in/gaurav1832)
+- Twitter: [ggauravvvvv](https://twitter.com/ggauravvvvv)
 
 
 Thanks for stopping by! 😄
