@@ -12,14 +12,14 @@
 
 ```bash
 # About Me
-- 👨🏻‍💻 Working on [CodeMaps](https://github.com/gaurav1832/CodeMaps)
+- 👨🏻‍💻 Working on enhancing my skill set and staying current with industry trends.
 - 📚 Learning Next.js
 - ⚡ Fun fact: I play Chess ♞ in my free time!
 
 # 🛠 What I know:
 - JavaScript     | React         | TypeScript 
 - Java           | C++           | HTML5 
-- CSS3           | Python        | Flask
+- CSS3           | Python        | Nodejs
 - MySQL          | Git           | Vercel | Netlify
 
 ```
