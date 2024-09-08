@@ -4,10 +4,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=gaurav1832&pretty=true" alt="Profile Visits" /></a>
-</div>
-
 <h1 align="center">Hey there 👋</h1>
 
 ```bash
@@ -65,5 +61,8 @@
 
 
 Thanks for stopping by! 😄
+<div align="left">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=gaurav1832&pretty=true" alt="Profile Visits" /></a>
+</div>
 
 
