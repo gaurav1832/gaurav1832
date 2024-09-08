@@ -54,7 +54,7 @@
 </div>
 
 
-# Find me on:
+### Find me on:
 - LeetCode: [carlsen_magnus](https://www.leetcode.com/carlsen_magnus)
 - LinkedIn: [gaurav1832](https://linkedin.com/in/gaurav1832)
 - Twitter: [ggauravvvvv](https://twitter.com/ggauravvvvv)
